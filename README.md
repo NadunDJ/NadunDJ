@@ -5,7 +5,7 @@
 
 - 🔭 I am an undergraduate pursuing a **Bachelor of Engineering Technology (Hons) in Industrial Automation & Robotics at the Faculty of Computing & Technology, University of Kelaniya**
 
-- 🌱 Engineering Training as a **Automation Engineer - MAS Intimates Capital PVT.LTD, Ratmalana**
+- 🌱 Engineering Training as a **Automation Engineer - MAS Intimates Capital PVT.LTD - Ratmalana**
 
 - 👯I have completed an **Industrial Programming Logic Controller (PLC) Course in SLIR.**
 
