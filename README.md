@@ -14,10 +14,8 @@
 <p>- 👷 Engineering Training as a **Automation Engineer - MAS Intimates Capital PVT.LTD - Ratmalana </p>
 <p>- 🧑‍💼🧑‍🧑‍🧒‍🧒 I have completed a **Human resources Management & Administration Diploma in SITC Campus </p>
 
-
-
 <h2> 📨 Contact Info </h2>
-<p>- 📫 Gmail **darshitha1000@gmail.com </p>
+<p>- 📫 Gmail - darshitha1000@gmail.com </p>
 <p>- 📞 Mobile Number - 076-3211067 </p>
 <p>-  ✉ LinkedIn  -  www.linkedin.com/in/nadunjayathilaka-5118952a8 </p>
 
