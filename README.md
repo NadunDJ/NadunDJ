@@ -11,8 +11,7 @@
 
 - 🤝 I have completed a **Human resources Management & Administration Diploma in SITC Campus**
 
-- 💬 About Me
-**I am a dedicated professional with strong ethics and the ability to take on challenges. My leadership and communication skills allow me to collaborate effectively with diverse teams. I am eager to take on responsibilities in the field of Automation Engineering, applying my knowledge and skills to achieve excellence. I am highly interested in Automation and Robotics Engineering and aspire to conduct innovative research across diverse industrial sectors.**
+- <h3 💬 About Me </h3> **I am a dedicated professional with strong ethics and the ability to take on challenges. My leadership and communication skills allow me to collaborate effectively with diverse teams. I am eager to take on responsibilities in the field of Automation Engineering, applying my knowledge and skills to achieve excellence. I am highly interested in Automation and Robotics Engineering and aspire to conduct innovative research across diverse industrial sectors.**
 
 - 📫 How to reach me **darshitha1000@gmail.com**
 - 📱 Mobile Number - 076-3211067
