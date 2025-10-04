@@ -6,21 +6,20 @@
 <h2>💬 About Me </h2> <p> I am a dedicated professional with strong ethics and the ability to take on challenges. My leadership and communication skills allow me to collaborate effectively with diverse teams. I am eager to take on responsibilities in the field of Automation Engineering, applying my knowledge and skills to achieve excellence. I am highly interested in Automation and Robotics Engineering and aspire to conduct innovative research across diverse industrial sectors.</p>
 
 <h2>💬 Education Qualifications </h2>
-- 🔭A/L - Engineering Technology - A,A,C
-- 🔭 I am an undergraduate pursuing a **Bachelor of Engineering Technology (Hons) in Industrial Automation & Robotics at the Faculty of Computing & Technology, University of Kelaniya**
-- 👯 I have completed an **Industrial Programming Logic Controller (PLC) Course in SLIR.**
+<p>- 🔭A/L - Engineering Technology - A,A,C </p>
+<p>- 🔭 I am an undergraduate pursuing a **Bachelor of Engineering Technology (Hons) in Industrial Automation & Robotics at the Faculty of Computing & Technology, University of Kelaniya. </p>
+<p>- 👯 I have completed an **Industrial Programming Logic Controller (PLC) Course in SLIR. </p>
 
 <h2>💬 Professional Qualifications </h2>
-- 🌱 Engineering Training as a **Automation Engineer - MAS Intimates Capital PVT.LTD - Ratmalana**
-
-- 🤝 I have completed a **Human resources Management & Administration Diploma in SITC Campus**
+<p>- 🌱 Engineering Training as a **Automation Engineer - MAS Intimates Capital PVT.LTD - Ratmalana </p>
+<p>- 🤝 I have completed a **Human resources Management & Administration Diploma in SITC Campus </p>
 
 
 
 <h2>💬 Contact Info </h2>
-- 📫 Gmail **darshitha1000@gmail.com**
-- 📱 Mobile Number - 076-3211067
--  ✉ LinkedIn  -  www.linkedin.com/in/nadunjayathilaka-5118952a8
+<p>- 📫 Gmail **darshitha1000@gmail.com </p>
+<p>- 📱 Mobile Number - 076-3211067 </p>
+<p>-  ✉ LinkedIn  -  www.linkedin.com/in/nadunjayathilaka-5118952a8 </p>
 
 
 <h3 align="left">Connect with me:</h3>
