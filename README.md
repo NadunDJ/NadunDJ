@@ -1,20 +1,26 @@
-<h1 align="center">Hi 👋, I'm Nadun Jayathilaka</h1>
+<h1 align="center"> I'm Nadun Jayathilaka</h1>
 <h3 align="center">I am highly interested in Automation and Robotics Engineering and aspire to conduct innovative research across diverse industrial sectors.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadundj&label=Profile%20views&color=0e75b6&style=flat" alt="nadundj" /> </p>
 
+<h2>💬 About Me </h2> <p> I am a dedicated professional with strong ethics and the ability to take on challenges. My leadership and communication skills allow me to collaborate effectively with diverse teams. I am eager to take on responsibilities in the field of Automation Engineering, applying my knowledge and skills to achieve excellence. I am highly interested in Automation and Robotics Engineering and aspire to conduct innovative research across diverse industrial sectors.</p>
+
+<h2>💬 Education Qualifications </h2>
+- 🔭A/L - Engineering Technology - A,A,C
 - 🔭 I am an undergraduate pursuing a **Bachelor of Engineering Technology (Hons) in Industrial Automation & Robotics at the Faculty of Computing & Technology, University of Kelaniya**
+- 👯 I have completed an **Industrial Programming Logic Controller (PLC) Course in SLIR.**
 
+<h2>💬 Professional Qualifications </h2>
 - 🌱 Engineering Training as a **Automation Engineer - MAS Intimates Capital PVT.LTD - Ratmalana**
-
-- 👯I have completed an **Industrial Programming Logic Controller (PLC) Course in SLIR.**
 
 - 🤝 I have completed a **Human resources Management & Administration Diploma in SITC Campus**
 
-- <h2>💬 About Me </h2> <p> I am a dedicated professional with strong ethics and the ability to take on challenges. My leadership and communication skills allow me to collaborate effectively with diverse teams. I am eager to take on responsibilities in the field of Automation Engineering, applying my knowledge and skills to achieve excellence. I am highly interested in Automation and Robotics Engineering and aspire to conduct innovative research across diverse industrial sectors.</p>
 
-- 📫 How to reach me **darshitha1000@gmail.com**
+
+<h2>💬 Contact Info </h2>
+- 📫 Gmail **darshitha1000@gmail.com**
 - 📱 Mobile Number - 076-3211067
+-  ✉ LinkedIn  -  www.linkedin.com/in/nadunjayathilaka-5118952a8
 
 
 <h3 align="left">Connect with me:</h3>
